@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "Simulation-guided outpatient staff-hour allocation with Bayesian optimization"
+type: software
+license: MIT
+authors:
+  - given-names: Diego
+    family-names: Machado
+    affiliation: "Universidad de Santiago de Chile"
+  - given-names: Guido
+    family-names: Lagos
+    affiliation: "Universidad Adolfo Ibáñez"
+  - given-names: Francisco
+    family-names: Jara-Moroni
+    affiliation: "Universidad Diego Portales"
+    email: francisco.jara@mail.udp.cl
+  - given-names: René
+    family-names: Lagos
+    affiliation: "Universidad de Chile"
+  - given-names: Bastián
+    family-names: Saavedra
+    affiliation: "Universidad de Santiago de Chile"
+  - given-names: Tomás
+    family-names: Torres
+    affiliation: "Universidad de Santiago de Chile"
+preferred-citation:
+  type: unpublished
+  title: "Simulation-guided outpatient staff-hour allocation with Bayesian optimization"
+  notes: "Manuscript submitted for publication"
+  authors:
+    - given-names: Diego
+      family-names: Machado
+    - given-names: Guido
+      family-names: Lagos
+    - given-names: Francisco
+      family-names: Jara-Moroni
+    - given-names: René
+      family-names: Lagos
+    - given-names: Bastián
+      family-names: Saavedra
+    - given-names: Tomás
+      family-names: Torres
